@@ -1,0 +1,2 @@
+BERT모델
+CNN-LSTM모델
