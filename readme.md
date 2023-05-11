@@ -6,7 +6,7 @@
 ### 데이터 디렉토리 구조
 
 ├── KoBERT  
-│&nbsp;&nbsp;&nbsp;&nbsp;└── __pycache__  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── __pycache__  
 ├── data  
 │   ├── EDA  
 │   ├── IBI  
