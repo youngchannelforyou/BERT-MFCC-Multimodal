@@ -1,9 +1,9 @@
-###BERT모델, CNN-LSTM모델을 활용한 감정 인식 모델
+# BERT모델, CNN-LSTM모델을 활용한 감정 인식 모델
 
 사용한 데이터 [KEMDy20](https://nanum.etri.re.kr/share/kjnoh/KEMDy20?lang=ko_KR)
 
 
-### 데이터 디렉토리 구조
+# 데이터 디렉토리 구조
 
 ├── KoBERT  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── __pycache__  
@@ -56,7 +56,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── wav  
 └── result  
   
-###실행 방법
+# 실행 방법
 set.py - 총 3회실행 <EDA IBI TEMP 데이터에 대하여 폴더 지정후 3번 실행 할 것>
 이후 preprocess 실행
 이후 train 실행
